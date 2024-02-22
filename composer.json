@@ -1,6 +1,6 @@
 {
-    "name": "erusev/parsedown-extra",
-    "description": "An extension of Parsedown that adds support for Markdown Extra.",
+    "name": "sin5d/parsedown-extra",
+    "description": "An extension of Parsedown that adds support for Markdown Extra.(PHP 8.2 compatible)",
     "keywords": ["markdown", "markdown extra", "parser", "parsedown"],
     "homepage": "https://github.com/erusev/parsedown-extra",
     "type": "library",
@@ -10,6 +10,11 @@
             "name": "Emanuil Rusev",
             "email": "hello@erusev.com",
             "homepage": "http://erusev.com"
+        },
+        {
+            "name": "Shingo Kitayama",
+            "email": "shingo.kitayama@gmail.com",
+            "homepage": "https://sin5d.com"
         }
     ],
     "require": {
